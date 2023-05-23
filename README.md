@@ -1,3 +1,3 @@
 # juegointro
-Mi primer juego en greenfoot utilizando java 
-Enlace a mi juego kprueba 1: 
+Mi primer juego en greenfoot utilizando java \n 
+Enlace a mi juego prueba 1: 
